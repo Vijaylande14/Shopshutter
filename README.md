@@ -36,28 +36,25 @@ The platform is visually appealing, dynamic, and designed to elevate your wardro
 
 ---
 ## Project Screen shots:
-![Screenshot 2025-05-06 150831](https://github.com/user-attachments/assets/89ef200e-6c08-4752-87d4-c7a64435ab51)
 
-![Screenshot 2025-05-06 150935](https://github.com/user-attachments/assets/ec3a2073-a4bb-49ac-bc02-aa6ffeb0bf5a)
+![Screenshot 2025-05-06 150831](https://github.com/user-attachments/assets/5b689de9-3b33-4e14-aa79-d429965bc8a3)
 
-![Screenshot 2025-05-06 150951](https://github.com/user-attachments/assets/38e1059c-5f45-4102-a744-10fc5356258a)
+![Screenshot 2025-05-06 150935](https://github.com/user-attachments/assets/41bf5cf4-0112-4734-8255-9779af3c5085)
 
-![Screenshot 2025-05-06 151155](https://github.com/user-attachments/assets/060a6816-7b65-41ff-9967-1fd2d250dcf1)
+![Screenshot 2025-05-06 150951](https://github.com/user-attachments/assets/28e16316-8406-4fcd-bce2-11bf0b720c4c)
 
-![Screenshot 2025-05-06 151102](https://github.com/user-attachments/assets/fd28e55f-ee9e-4f4e-b93b-e96d6bed014b)
+![Screenshot 2025-05-06 151155](https://github.com/user-attachments/assets/cccd0b2c-a253-4300-9ab7-e97757657e9a)
 
-![Screenshot 2025-05-06 151117](https://github.com/user-attachments/assets/5f98bca0-90e8-4d91-bb64-0910e27fd4f1)
-
-
-![Screenshot 2025-05-06 151227](https://github.com/user-attachments/assets/609a63d6-fed7-4090-99c0-c7bd05de9474)
+![Screenshot 2025-05-06 151102](https://github.com/user-attachments/assets/a101a05b-85f1-45c0-ad04-5941c789595f)
 
 
+![Screenshot 2025-05-06 151117](https://github.com/user-attachments/assets/402113d8-8e10-473e-8c5b-79f8b40fbdfc)
 
-![Screenshot 2025-05-06 151512](https://github.com/user-attachments/assets/41c429df-7b3f-42e5-9549-141e37a42e54)
+![Screenshot 2025-05-06 151227](https://github.com/user-attachments/assets/4d77b150-892a-4858-a021-86bfbc1d772d)
 
+![Screenshot 2025-05-06 151512](https://github.com/user-attachments/assets/b9d8fa8f-00da-4a1c-a121-46c4a95e1f39)
 
-
-![Screenshot 2025-05-06 151211](https://github.com/user-attachments/assets/b5052281-1a35-469a-954d-617713274e56)
+![Screenshot 2025-05-06 151211](https://github.com/user-attachments/assets/d7b71540-4d24-4e04-b3e3-6d7714e56a2b)
 
 ## Installation and Setup Instructions
 #Example:
