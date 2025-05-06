@@ -1,5 +1,5 @@
-# ShopShutter - Clothes WebApp
-
+## ShopShutter - Clothes WebApp
+-
 ShopShutter Clothes WebApp is a user-centric platform that offers a seamless shopping experience for trendy fashion clothes. Its user-centric design prioritizes visibility, 
 making it easy for users to browse and make informed choices. The platform combines sleek design with trendy fashion, creating a shopping environment that goes beyond the ordinary. 
 ShopShutter Clothes WebApp elevates your wardrobe with style and convenience.
