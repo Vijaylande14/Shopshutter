@@ -58,6 +58,7 @@ The platform is visually appealing, dynamic, and designed to elevate your wardro
 
 ## Installation and Setup Instructions
 #Example:
+
 Clone down this repository. You will need node and npm installed globally on your machine.
 
 Installation:
