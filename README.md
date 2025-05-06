@@ -57,7 +57,7 @@ The platform is visually appealing, dynamic, and designed to elevate your wardro
 ![Screenshot 2025-05-06 151211](https://github.com/user-attachments/assets/d7b71540-4d24-4e04-b3e3-6d7714e56a2b)
 
 ## Installation and Setup Instructions
-#Example:
+# Example:
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
