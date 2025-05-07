@@ -32,7 +32,7 @@ The ShopShutter web app showcases fashion trends, provides a user-friendly inter
 </ul>
 
 
-## Project Screen Shot(s)
+## Project Screen Shots:
 
 ![landing page](https://github.com/prashu-014/ShopShutter/assets/98073443/55ef9059-ae0c-47cb-9483-c56040cc5fa3)
 ![slider](https://github.com/prashu-014/ShopShutter/assets/98073443/5784ad39-f357-4dc8-a242-2b69ef88f568)
