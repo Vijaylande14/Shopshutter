@@ -4,7 +4,7 @@ ShopShutter Clothes WebApp is a user-centric platform that offers a seamless sho
 
 # About 
 
-The ShopShutter web app showcases fashion trends, provides a user-friendly interface, detailed product pages, quantity adjustment, and efficient "Add to Cart" functionality. Secure user authentication using Firebase is ensured, and a category-wise product filtering system is implemented for easy item discovery. The platform is visually appealing and dynamic.
+The ShopShutter web app showcases fashion trends, provides a user-friendly interface, detailed product pages, quantity adjustment, and efficient **"Add to Cart"** functionality. Secure user authentication using **Firebase** is ensured, and a category-wise product filtering system is implemented for easy item discovery. The platform is visually appealing and dynamic.
 
 # Technology Used
 
